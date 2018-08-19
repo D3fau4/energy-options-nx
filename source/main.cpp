@@ -14,7 +14,7 @@ int main(int argc, char **argv)
     gfxInitDefault();
     consoleInit(NULL);
     bpcInitialize();
-    bpcRebootSystem();
+    bpcShutdownSystem();
     return 0;
 }
 
