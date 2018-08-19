@@ -36,6 +36,9 @@ SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
 EXEFS_SRC	:=	exefs_src
+APP_TITLE   :=  Shutdown
+APP_AUTHOR  :=  D3fau4
+APP_VERSION :=  1.0.0
 #ROMFS	:=	romfs
 
 #---------------------------------------------------------------------------------
